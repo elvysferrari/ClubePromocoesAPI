@@ -1,0 +1,12 @@
+F:\GitHub\ClubePromocoesAPI\ClubePromocoesAPI.Reads\bin\Debug\net7.0\ClubePromocoesAPI.Reads.deps.json
+F:\GitHub\ClubePromocoesAPI\ClubePromocoesAPI.Reads\bin\Debug\net7.0\ClubePromocoesAPI.Reads.dll
+F:\GitHub\ClubePromocoesAPI\ClubePromocoesAPI.Reads\bin\Debug\net7.0\ClubePromocoesAPI.Reads.pdb
+F:\GitHub\ClubePromocoesAPI\ClubePromocoesAPI.Reads\obj\Debug\net7.0\ClubePromocoesAPI.Reads.csproj.AssemblyReference.cache
+F:\GitHub\ClubePromocoesAPI\ClubePromocoesAPI.Reads\obj\Debug\net7.0\ClubePromocoesAPI.Reads.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\ClubePromocoesAPI\ClubePromocoesAPI.Reads\obj\Debug\net7.0\ClubePromocoesAPI.Reads.AssemblyInfoInputs.cache
+F:\GitHub\ClubePromocoesAPI\ClubePromocoesAPI.Reads\obj\Debug\net7.0\ClubePromocoesAPI.Reads.AssemblyInfo.cs
+F:\GitHub\ClubePromocoesAPI\ClubePromocoesAPI.Reads\obj\Debug\net7.0\ClubePromocoesAPI.Reads.csproj.CoreCompileInputs.cache
+F:\GitHub\ClubePromocoesAPI\ClubePromocoesAPI.Reads\obj\Debug\net7.0\ClubePromocoesAPI.Reads.dll
+F:\GitHub\ClubePromocoesAPI\ClubePromocoesAPI.Reads\obj\Debug\net7.0\refint\ClubePromocoesAPI.Reads.dll
+F:\GitHub\ClubePromocoesAPI\ClubePromocoesAPI.Reads\obj\Debug\net7.0\ClubePromocoesAPI.Reads.pdb
+F:\GitHub\ClubePromocoesAPI\ClubePromocoesAPI.Reads\obj\Debug\net7.0\ref\ClubePromocoesAPI.Reads.dll

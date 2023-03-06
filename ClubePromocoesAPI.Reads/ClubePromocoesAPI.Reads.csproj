@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="LojaModule\Enums\" />
+    <Folder Include="LojaModule\Validations\" />
+    <Folder Include="PromocaoModule\Enums\" />
+    <Folder Include="PromocaoModule\Validations\" />
+    <Folder Include="UsuarioModule\Enums\" />
+    <Folder Include="UsuarioModule\Validations\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.0.1" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>F:\GitHub\ClubePromocoesAPI\ClubePromocoesAPI.API\bin\Release\net7.0\publish\</_PublishTargetUrl>
+    <History>True|2023-03-02T20:43:00.3336518Z;True|2023-03-02T15:08:34.6287497-03:00;True|2023-03-02T15:01:03.0394236-03:00;True|2023-03-02T14:49:42.7818040-03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ClubePromocoesAPI.DTO/1.0.0": {
+        "runtime": {
+          "ClubePromocoesAPI.DTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClubePromocoesAPI.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

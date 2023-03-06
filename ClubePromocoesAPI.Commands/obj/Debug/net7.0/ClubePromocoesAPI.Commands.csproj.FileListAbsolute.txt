@@ -1,0 +1,15 @@
+F:\GitHub\ClubePromocoesAPI\ClubePromocoesAPI.Commands\obj\Debug\net7.0\ClubePromocoesAPI.Commands.csproj.AssemblyReference.cache
+F:\GitHub\ClubePromocoesAPI\ClubePromocoesAPI.Commands\obj\Debug\net7.0\ClubePromocoesAPI.Commands.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\ClubePromocoesAPI\ClubePromocoesAPI.Commands\obj\Debug\net7.0\ClubePromocoesAPI.Commands.AssemblyInfoInputs.cache
+F:\GitHub\ClubePromocoesAPI\ClubePromocoesAPI.Commands\obj\Debug\net7.0\ClubePromocoesAPI.Commands.AssemblyInfo.cs
+F:\GitHub\ClubePromocoesAPI\ClubePromocoesAPI.Commands\obj\Debug\net7.0\ClubePromocoesAPI.Commands.csproj.CoreCompileInputs.cache
+F:\GitHub\ClubePromocoesAPI\ClubePromocoesAPI.Commands\bin\Debug\net7.0\ClubePromocoesAPI.Commands.deps.json
+F:\GitHub\ClubePromocoesAPI\ClubePromocoesAPI.Commands\bin\Debug\net7.0\ClubePromocoesAPI.Commands.dll
+F:\GitHub\ClubePromocoesAPI\ClubePromocoesAPI.Commands\bin\Debug\net7.0\ClubePromocoesAPI.Commands.pdb
+F:\GitHub\ClubePromocoesAPI\ClubePromocoesAPI.Commands\bin\Debug\net7.0\ClubePromocoesAPI.Domain.dll
+F:\GitHub\ClubePromocoesAPI\ClubePromocoesAPI.Commands\bin\Debug\net7.0\ClubePromocoesAPI.Domain.pdb
+F:\GitHub\ClubePromocoesAPI\ClubePromocoesAPI.Commands\obj\Debug\net7.0\ClubePromocoesAPI.Commands.csproj.CopyComplete
+F:\GitHub\ClubePromocoesAPI\ClubePromocoesAPI.Commands\obj\Debug\net7.0\ClubePromocoesAPI.Commands.dll
+F:\GitHub\ClubePromocoesAPI\ClubePromocoesAPI.Commands\obj\Debug\net7.0\refint\ClubePromocoesAPI.Commands.dll
+F:\GitHub\ClubePromocoesAPI\ClubePromocoesAPI.Commands\obj\Debug\net7.0\ClubePromocoesAPI.Commands.pdb
+F:\GitHub\ClubePromocoesAPI\ClubePromocoesAPI.Commands\obj\Debug\net7.0\ref\ClubePromocoesAPI.Commands.dll
